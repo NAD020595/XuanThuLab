@@ -1,0 +1,5 @@
+D:\XuanThuLab\Part1_Introductory\CS001_HelloWorld\bin\Release\net8.0\publish\CS001_HelloWorld.exe
+D:\XuanThuLab\Part1_Introductory\CS001_HelloWorld\bin\Release\net8.0\publish\CS001_HelloWorld.dll
+D:\XuanThuLab\Part1_Introductory\CS001_HelloWorld\bin\Release\net8.0\publish\CS001_HelloWorld.deps.json
+D:\XuanThuLab\Part1_Introductory\CS001_HelloWorld\bin\Release\net8.0\publish\CS001_HelloWorld.runtimeconfig.json
+D:\XuanThuLab\Part1_Introductory\CS001_HelloWorld\bin\Release\net8.0\publish\CS001_HelloWorld.pdb

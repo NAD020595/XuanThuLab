@@ -1,0 +1,15 @@
+D:\XuanThuLab\Part1_Introductory\CS002_VariablesConstantsIO\bin\Debug\net8.0\CS002_VariablesConstantsIO.exe
+D:\XuanThuLab\Part1_Introductory\CS002_VariablesConstantsIO\bin\Debug\net8.0\CS002_VariablesConstantsIO.deps.json
+D:\XuanThuLab\Part1_Introductory\CS002_VariablesConstantsIO\bin\Debug\net8.0\CS002_VariablesConstantsIO.runtimeconfig.json
+D:\XuanThuLab\Part1_Introductory\CS002_VariablesConstantsIO\bin\Debug\net8.0\CS002_VariablesConstantsIO.dll
+D:\XuanThuLab\Part1_Introductory\CS002_VariablesConstantsIO\bin\Debug\net8.0\CS002_VariablesConstantsIO.pdb
+D:\XuanThuLab\Part1_Introductory\CS002_VariablesConstantsIO\obj\Debug\net8.0\CS002_VariablesConstantsIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\XuanThuLab\Part1_Introductory\CS002_VariablesConstantsIO\obj\Debug\net8.0\CS002_VariablesConstantsIO.AssemblyInfoInputs.cache
+D:\XuanThuLab\Part1_Introductory\CS002_VariablesConstantsIO\obj\Debug\net8.0\CS002_VariablesConstantsIO.AssemblyInfo.cs
+D:\XuanThuLab\Part1_Introductory\CS002_VariablesConstantsIO\obj\Debug\net8.0\CS002_VariablesConstantsIO.csproj.CoreCompileInputs.cache
+D:\XuanThuLab\Part1_Introductory\CS002_VariablesConstantsIO\obj\Debug\net8.0\CS002_VariablesConstantsIO.sourcelink.json
+D:\XuanThuLab\Part1_Introductory\CS002_VariablesConstantsIO\obj\Debug\net8.0\CS002_VariablesConstantsIO.dll
+D:\XuanThuLab\Part1_Introductory\CS002_VariablesConstantsIO\obj\Debug\net8.0\refint\CS002_VariablesConstantsIO.dll
+D:\XuanThuLab\Part1_Introductory\CS002_VariablesConstantsIO\obj\Debug\net8.0\CS002_VariablesConstantsIO.pdb
+D:\XuanThuLab\Part1_Introductory\CS002_VariablesConstantsIO\obj\Debug\net8.0\CS002_VariablesConstantsIO.genruntimeconfig.cache
+D:\XuanThuLab\Part1_Introductory\CS002_VariablesConstantsIO\obj\Debug\net8.0\ref\CS002_VariablesConstantsIO.dll

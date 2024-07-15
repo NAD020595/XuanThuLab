@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\XuanThuLab\\Part1_Introductory\\CS001_HelloWorld\\CS001_HelloWorld.csproj": {}
+    "D:\\XuanThuLab\\CSharpDotNet\\Part1_Introductory\\CS001_HelloWorld\\CS001_HelloWorld.csproj": {}
   },
   "projects": {
-    "D:\\XuanThuLab\\Part1_Introductory\\CS001_HelloWorld\\CS001_HelloWorld.csproj": {
+    "D:\\XuanThuLab\\CSharpDotNet\\Part1_Introductory\\CS001_HelloWorld\\CS001_HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\XuanThuLab\\Part1_Introductory\\CS001_HelloWorld\\CS001_HelloWorld.csproj",
+        "projectUniqueName": "D:\\XuanThuLab\\CSharpDotNet\\Part1_Introductory\\CS001_HelloWorld\\CS001_HelloWorld.csproj",
         "projectName": "CS001_HelloWorld",
-        "projectPath": "D:\\XuanThuLab\\Part1_Introductory\\CS001_HelloWorld\\CS001_HelloWorld.csproj",
+        "projectPath": "D:\\XuanThuLab\\CSharpDotNet\\Part1_Introductory\\CS001_HelloWorld\\CS001_HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Nguyen Anh Duy\\.nuget\\packages\\",
-        "outputPath": "D:\\XuanThuLab\\Part1_Introductory\\CS001_HelloWorld\\obj\\",
+        "outputPath": "D:\\XuanThuLab\\CSharpDotNet\\Part1_Introductory\\CS001_HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nguyen Anh Duy\\AppData\\Roaming\\NuGet\\NuGet.Config",

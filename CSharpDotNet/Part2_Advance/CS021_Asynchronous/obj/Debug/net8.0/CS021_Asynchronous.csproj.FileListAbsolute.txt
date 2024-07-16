@@ -1,0 +1,15 @@
+E:\Learn\XuanThuLab\CSharpDotNet\Part2_Advance\CS021_Asynchronous\bin\Debug\net8.0\CS021_Asynchronous.exe
+E:\Learn\XuanThuLab\CSharpDotNet\Part2_Advance\CS021_Asynchronous\bin\Debug\net8.0\CS021_Asynchronous.deps.json
+E:\Learn\XuanThuLab\CSharpDotNet\Part2_Advance\CS021_Asynchronous\bin\Debug\net8.0\CS021_Asynchronous.runtimeconfig.json
+E:\Learn\XuanThuLab\CSharpDotNet\Part2_Advance\CS021_Asynchronous\bin\Debug\net8.0\CS021_Asynchronous.dll
+E:\Learn\XuanThuLab\CSharpDotNet\Part2_Advance\CS021_Asynchronous\bin\Debug\net8.0\CS021_Asynchronous.pdb
+E:\Learn\XuanThuLab\CSharpDotNet\Part2_Advance\CS021_Asynchronous\obj\Debug\net8.0\CS021_Asynchronous.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\XuanThuLab\CSharpDotNet\Part2_Advance\CS021_Asynchronous\obj\Debug\net8.0\CS021_Asynchronous.AssemblyInfoInputs.cache
+E:\Learn\XuanThuLab\CSharpDotNet\Part2_Advance\CS021_Asynchronous\obj\Debug\net8.0\CS021_Asynchronous.AssemblyInfo.cs
+E:\Learn\XuanThuLab\CSharpDotNet\Part2_Advance\CS021_Asynchronous\obj\Debug\net8.0\CS021_Asynchronous.csproj.CoreCompileInputs.cache
+E:\Learn\XuanThuLab\CSharpDotNet\Part2_Advance\CS021_Asynchronous\obj\Debug\net8.0\CS021_Asynchronous.sourcelink.json
+E:\Learn\XuanThuLab\CSharpDotNet\Part2_Advance\CS021_Asynchronous\obj\Debug\net8.0\CS021_Asynchronous.dll
+E:\Learn\XuanThuLab\CSharpDotNet\Part2_Advance\CS021_Asynchronous\obj\Debug\net8.0\refint\CS021_Asynchronous.dll
+E:\Learn\XuanThuLab\CSharpDotNet\Part2_Advance\CS021_Asynchronous\obj\Debug\net8.0\CS021_Asynchronous.pdb
+E:\Learn\XuanThuLab\CSharpDotNet\Part2_Advance\CS021_Asynchronous\obj\Debug\net8.0\CS021_Asynchronous.genruntimeconfig.cache
+E:\Learn\XuanThuLab\CSharpDotNet\Part2_Advance\CS021_Asynchronous\obj\Debug\net8.0\ref\CS021_Asynchronous.dll

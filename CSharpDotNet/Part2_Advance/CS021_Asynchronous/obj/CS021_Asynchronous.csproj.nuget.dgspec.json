@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learn\\XuanThuLab\\CSharpDotNet\\Part1_Introductory\\CS001_HelloWorld\\CS001_HelloWorld.csproj": {}
+    "E:\\Learn\\XuanThuLab\\CSharpDotNet\\Part2_Advance\\CS021_Asynchronous\\CS021_Asynchronous.csproj": {}
   },
   "projects": {
-    "E:\\Learn\\XuanThuLab\\CSharpDotNet\\Part1_Introductory\\CS001_HelloWorld\\CS001_HelloWorld.csproj": {
+    "E:\\Learn\\XuanThuLab\\CSharpDotNet\\Part2_Advance\\CS021_Asynchronous\\CS021_Asynchronous.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learn\\XuanThuLab\\CSharpDotNet\\Part1_Introductory\\CS001_HelloWorld\\CS001_HelloWorld.csproj",
-        "projectName": "CS001_HelloWorld",
-        "projectPath": "E:\\Learn\\XuanThuLab\\CSharpDotNet\\Part1_Introductory\\CS001_HelloWorld\\CS001_HelloWorld.csproj",
+        "projectUniqueName": "E:\\Learn\\XuanThuLab\\CSharpDotNet\\Part2_Advance\\CS021_Asynchronous\\CS021_Asynchronous.csproj",
+        "projectName": "CS021_Asynchronous",
+        "projectPath": "E:\\Learn\\XuanThuLab\\CSharpDotNet\\Part2_Advance\\CS021_Asynchronous\\CS021_Asynchronous.csproj",
         "packagesPath": "C:\\Users\\duy.nguyen1\\.nuget\\packages\\",
-        "outputPath": "E:\\Learn\\XuanThuLab\\CSharpDotNet\\Part1_Introductory\\CS001_HelloWorld\\obj\\",
+        "outputPath": "E:\\Learn\\XuanThuLab\\CSharpDotNet\\Part2_Advance\\CS021_Asynchronous\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

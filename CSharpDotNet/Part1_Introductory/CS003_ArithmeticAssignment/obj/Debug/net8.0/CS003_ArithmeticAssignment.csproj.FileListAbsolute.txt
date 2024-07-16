@@ -1,0 +1,5 @@
+D:\XuanThuLab\CSharpDotNet\Part1_Introductory\CS003_ArithmeticAssignment\obj\Debug\net8.0\CS003_ArithmeticAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\XuanThuLab\CSharpDotNet\Part1_Introductory\CS003_ArithmeticAssignment\obj\Debug\net8.0\CS003_ArithmeticAssignment.AssemblyInfoInputs.cache
+D:\XuanThuLab\CSharpDotNet\Part1_Introductory\CS003_ArithmeticAssignment\obj\Debug\net8.0\CS003_ArithmeticAssignment.AssemblyInfo.cs
+D:\XuanThuLab\CSharpDotNet\Part1_Introductory\CS003_ArithmeticAssignment\obj\Debug\net8.0\CS003_ArithmeticAssignment.csproj.CoreCompileInputs.cache
+D:\XuanThuLab\CSharpDotNet\Part1_Introductory\CS003_ArithmeticAssignment\obj\Debug\net8.0\CS003_ArithmeticAssignment.sourcelink.json

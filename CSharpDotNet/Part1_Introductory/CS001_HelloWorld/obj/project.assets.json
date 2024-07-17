@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Nguyen Anh Duy\\.nuget\\packages\\": {}
+    "C:\\Users\\duy.nguyen1\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\XuanThuLab\\CSharpDotNet\\Part1_Introductory\\CS001_HelloWorld\\CS001_HelloWorld.csproj",
+      "projectUniqueName": "E:\\Learn\\XuanThuLab\\CSharpDotNet\\Part1_Introductory\\CS001_HelloWorld\\CS001_HelloWorld.csproj",
       "projectName": "CS001_HelloWorld",
-      "projectPath": "D:\\XuanThuLab\\CSharpDotNet\\Part1_Introductory\\CS001_HelloWorld\\CS001_HelloWorld.csproj",
-      "packagesPath": "C:\\Users\\Nguyen Anh Duy\\.nuget\\packages\\",
-      "outputPath": "D:\\XuanThuLab\\CSharpDotNet\\Part1_Introductory\\CS001_HelloWorld\\obj\\",
+      "projectPath": "E:\\Learn\\XuanThuLab\\CSharpDotNet\\Part1_Introductory\\CS001_HelloWorld\\CS001_HelloWorld.csproj",
+      "packagesPath": "C:\\Users\\duy.nguyen1\\.nuget\\packages\\",
+      "outputPath": "E:\\Learn\\XuanThuLab\\CSharpDotNet\\Part1_Introductory\\CS001_HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Nguyen Anh Duy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\duy.nguyen1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
